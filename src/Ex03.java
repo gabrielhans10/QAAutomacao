@@ -8,7 +8,7 @@ public class Ex03 {
         valor3 = valor2;
         valor2 = valor1;
         valor1 = valor3;
-        System.out.println("primeiro valor" + valor1);
-        System.out.println("segundo valor" + valor2);
+        System.out.println("primeiro valor " + valor1 );
+        System.out.println("segundo valor " + valor2 );
     }    
 }
